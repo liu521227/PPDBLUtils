@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "PPDBLUtils"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "测试pod生成PPDBLUtils的framework"
   s.description      = "测试用的，用了测试使用pod lib create 生产的framework工程"
   s.homepage         = "https://github.com/liu521227/PPDBLUtils.git"
